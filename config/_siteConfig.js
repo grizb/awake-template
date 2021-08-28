@@ -12,7 +12,7 @@ export default {
   siteName: 'Ultimate Freedom',
   tagline: 'John 3:16 For God so loved the world that he gave his only son that who so ever believes in him should not perish but have everlasting life',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -30,16 +30,6 @@ export default {
       name: 'Categories',
       link: '/categories'
     },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
