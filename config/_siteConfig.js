@@ -12,7 +12,7 @@ export default {
   siteName: 'Ultimate Freedom',
   tagline: 'John 3:16 For God so loved the world that he gave his only son that who so ever believes in him should not perish but have everlasting life',
   featureImage: '/uploads/home-hero.jpg',
-  logo: '', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'assets/uploads/imageonline-co-whitebackgroundremoved-16-.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
