@@ -64,8 +64,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://xyz.us5.list-manage.com/subscribe/post?u=c3271a5cb7e550ed75e5cce74&amp;id=ce6f6bd668" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll'
+        'https://xyz.us5.list-manage.com/subscribe/post?u=c3271a5cb7e550ed75e5cce74&amp;id=ce6f6bd668'
     },
     custom: {
       on: false,
