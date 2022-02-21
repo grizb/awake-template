@@ -3,7 +3,7 @@ title: Raising a responsible child
 subtitle: Raising gods children
 category:
   - About Awake
-author: Rita Kafula
+author: Rita Kafula Phiri
 date: 2022-02-21T13:07:26.190Z
 featureImage: /uploads/raising-gods-children.jpg
 ---
